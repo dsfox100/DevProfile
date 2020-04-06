@@ -137,6 +137,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
+        android:scaleType="centerCrop"
         app:layout_constraintDimensionRatio="w,9:16"
         app:layout_constraintEnd_toEndOf="@+id/imageView21"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
